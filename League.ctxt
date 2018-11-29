@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=League
+comment1.params=
+comment1.target=League()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ League\r\n
+comment2.params=IndexOfDivision
+comment2.target=Division\ getDivision(int)
+comment2.text=\r\n\ Get\ the\ division\ by\ searching\ with\ its\ index\r\n
+comment3.params=
+comment3.target=void\ leagueSetup()
+comment3.text=\r\n\ Set\ up\ the\ league\ by\ setting\ up\ the\ divisions\r\n
+numComments=4
